@@ -1,13 +1,10 @@
 {
-  "name": "exclusive-ticket-bot",
+  "name": "ticket-bot",
   "version": "1.0.0",
-  "description": "Bot de ticket para Discord",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Eris",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^14.14.1",
     "express": "^4.18.2"
